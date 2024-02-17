@@ -35,13 +35,13 @@ https://ythls.armelin.one/channel/UC3p-0EWA8OXko2EUDUXAy5w.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://tvpull.dxhmt.cn/tv/11081-2.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
-http://cyz32.livehbindex.hbcatv.cn/live/50000020d7ae404dbd55b5d0ba6fe735.m3u8?bitrate=2300&pt=5
+http://115.208.95.31:8888/rtp/233.50.201.119:5140
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3
 http://36.96.38.246:8888/newlive/live/hls/4/live.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4
 http://cyz32.livehbindex.hbcatv.cn/live/5b0dff5235e94ba8bff8731427145289.m3u8?bitrate=2300&pt=5
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5
-http://cyz32.livehbindex.hbcatv.cn/live/500000206cd748d58f41b13aa2754139.m3u8?bitrate=2300&pt=5
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6
 https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7
