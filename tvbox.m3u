@@ -17,41 +17,42 @@ http://123.140.197.22/stream/1/play.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://tvpull.dxhmt.cn/tv/11081-2.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3
-http://111.207.22.10:8888/newlive/live/hls/4/live.m3u8
+http://58.35.70.169:10055/live/cctv03/hls.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4
-http://111.207.22.10:8888/newlive/live/hls/5/live.m3u8
+http://221.210.64.165:2233/hls/11/index.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5
-http://111.207.22.10:8888/newlive/live/hls/6/live.m3u8
+http://58.35.70.169:10055/live/cctv05/hls.m3u8
+https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6
-http://119.98.88.46:4022/rtp/239.69.1.124:10382
+https://node1.olelive.com:6443/live/CCTV6HD/hls.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7
-http://36.96.38.246:8888/newlive/live/hls/9/live.m3u8
+http://58.35.70.169:10055/live/cctv07/hls.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8
-http://101.19.60.244:9901/tsfile/live/0008_1.m3u8
+https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9
-http://111.207.22.10:8888/newlive/live/hls/11/live.m3u8
+https://node1.olelive.com:6443/live/CCTV9HD/hls.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10
-http://101.71.176.182:8888/newlive/live/hls/12/live.m3u8
+http://58.35.70.169:10055/live/cctv10/hls.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11
-http://101.71.176.182:8888/newlive/live/hls/13/live.m3u8
+http://58.35.70.169:10055/live/cctv11/hls.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12
-http://123.183.24.86:6666/tsfile/live/0012_2.m3u8
+http://58.35.70.169:10055/live/cctv12/hls.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8?auth_key=357606504
+http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14
-http://101.71.176.182:8888/newlive/live/hls/16/live.m3u8
+http://58.35.70.169:10055/live/cctv14/hls.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15
-http://36.96.38.246:8888/newlive/live/hls/17/live.m3u8
+http://183.186.133.155:8085/rtp/226.0.2.32:8168
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-奥林匹克4K
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/1.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17
-http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.m3u8?bitrate=2300&pt=5
+http://119.98.90.27:5555/rtp/239.69.1.152:10548
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+高清
 https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
+http://live.cgtn.com/500/prog_index.m3u8
 #EXTINF:-1 tvg-id="YB1" tvg-name="延边卫视1" tvg-logo="" group-title="卫视",延边卫视1
 http://fxgm.fxjf.work:19901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-id="YB2" tvg-name="延边卫视2" tvg-logo="" group-title="卫视",延边卫视2
