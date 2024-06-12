@@ -59,7 +59,7 @@ http://fxgm.fxjf.work:19901/tsfile/live/1011_1.m3u8
 #EXTINF:-1 tvg-id="YB2" tvg-name="延边卫视2" tvg-logo="" group-title="卫视",延边卫视2
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
-http://61.173.46.180:8222 
+http://61.173.46.180:8222/udp/239.45.3.228:5140
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 http://111.224.127.196:8888/rtp/239.254.200.174:6000
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
