@@ -13,6 +13,7 @@ http://mytv.dothome.co.kr/ch/catv/4.php
 http://107.148.71.55:8080/hls/mbc.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="韩国TV",SBS [Not 24/7]
 http://123.140.197.22/stream/1/play.m3u8
+https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1
 http://61.138.54.155:2233/hls/8/index.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2
