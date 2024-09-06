@@ -14,15 +14,6 @@ http://107.148.71.55:8080/hls/mbc.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="韩国TV"  ,SBS [Not 24/7]
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视"  ,CCTV-1
-http://video.qd.sdu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8
-http://61.138.54.155:2233/hls/8/index.m3u8
-http://18.162.122.10:5000/itv/bestzb/5000000011000031108
-http://18.162.122.10:5000/itv/bestzb/5000000004000002226
-http://18.162.122.10:5000/itv/ystenlive/1000000005000265014
-http://18.162.122.10:5000/itv/ystenlive/1000000005000265013
-http://18.162.122.10:5000/itv/ystenlive/1000000001000008170
-http://18.162.122.10:5000/itv/ystenlive/1000000005000265010
-http://18.162.122.10:5000/itv/ystenlive/1000000005000265001
 http://18.162.122.10:5000/itv/ystenlive/1000000001000023734
 http://18.162.122.10:5000/itv/bestzb/5000000011000031109
 http://18.162.122.10:5000/itv/ystenlive/1000000006000233002
