@@ -14,6 +14,7 @@ https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="韩国TV"  ,SBS [Not 24/7]
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视"  ,CCTV-1
+http://27.45.234.166:9082/hls/1001/index.m3u8
 http://60.3.98.192:4022/rtp/239.253.92.83:8012
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视"  ,CCTV-2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
