@@ -14,25 +14,7 @@ https://wowza.jejumbc.com/live/tv_jejumbc/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="韩国TV"  ,SBS [Not 24/7]
 https://stream1.knn.co.kr/hls/9ly4534y7dm2xfa123r2_tv/index.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视"  ,CCTV-1
-http://18.162.122.10:5000/itv/ystenlive/1000000001000023734
-http://18.162.122.10:5000/itv/bestzb/5000000011000031109
-http://18.162.122.10:5000/itv/ystenlive/1000000006000233002
-http://18.162.122.10:5000/itv/bestzb/5000000011000031106
-http://18.162.122.10:5000/itv/bestzb/5000000004000006673
-http://18.162.122.10:5000/itv/wasusyt/6000000001000029752
-http://18.162.122.10:5000/itv/ystenlive/1000000006000268004
-http://18.162.122.10:5000/itv/ystenlive/1000000005000265011
-http://18.162.122.10:5000/itv/bestzb/5000000004000012827
-http://18.162.122.10:5000/itv/wasusyt/6000000001000022586
-http://18.162.122.10:5000/itv/ystenlive/1000000005000265015
-http://18.162.122.10:5000/itv/ystenlive/1000000001000032494
-http://18.162.122.10:5000/itv/ystenlive/1000000005000265012
-http://36.109.213.174:9988/udp/238.125.1.1:5140
-http://106.59.3.147:55555/udp/239.200.201.135:8880
-http://120.76.248.139/live/bfgd/4200000488.m3u8
-http://120.76.248.139/live/bfgd/4200000067.m3u8
-http://120.76.248.139/live/bfgd/4200000484.m3u8
-http://gslbservzqhsw.itv.cmvideo.cn/5000000011000031108/1.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
+http://117.144.58.42:35455/gaoma/cctv1.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视"  ,CCTV-2
 https://node1.olelive.com:6443/live/CCTV2HD/hls.m3u8
 https://api.olelive.com/dis/live/CCTV2HD/hls.m3u8
