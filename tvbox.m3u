@@ -27,19 +27,19 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="YB2" tvg-name="延边卫视1" tvg-logo="" group-title="韩国TV"  ,延边卫视1
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #,KBS专业频道
-#EXTINF:-1 tvg-name="KBS WORLD" group-title="KBS专业频道",KBS WORLD
+#EXTINF:-1 tvg-name="KBS WORLD" group-title="韩国TV",KBS WORLD
 http://182.254.168.213:5000/live/kbs_world.m3u8
-#EXTINF:-1 tvg-name="KBS NEWS 24" group-title="KBS专业频道",KBS NEWS 24
+#EXTINF:-1 tvg-name="KBS NEWS 24" group-title="韩国TV",KBS NEWS 24
 http://182.254.168.213:5000/live/kbs_news24.m3u8
-#EXTINF:-1 tvg-name="KBS Drama" group-title="KBS专业频道",KBS Drama
+#EXTINF:-1 tvg-name="KBS Drama" group-title="韩国TV",KBS Drama
 http://182.254.168.213:5000/live/kbs_drama.m3u8
-#EXTINF:-1 tvg-name="KBS Joy" group-title="KBS专业频道",KBS Joy
+#EXTINF:-1 tvg-name="KBS Joy" group-title="韩国TV",KBS Joy
 http://182.254.168.213:5000/live/kbs_joy.m3u8
-#EXTINF:-1 tvg-name="KBS Story" group-title="KBS专业频道",KBS Story
+#EXTINF:-1 tvg-name="KBS Story" group-title="韩国TV",KBS Story
 http://182.254.168.213:5000/live/kbs_story.m3u8
-#EXTINF:-1 tvg-name="KBS LIFE" group-title="KBS专业频道",KBS LIFE
+#EXTINF:-1 tvg-name="KBS LIFE" group-title="韩国TV",KBS LIFE
 http://182.254.168.213:5000/live/kbs_life.m3u8
-#EXTINF:-1 tvg-name="KBS KIDS" group-title="KBS专业频道",KBS KIDS
+#EXTINF:-1 tvg-name="KBS KIDS" group-title="韩国TV",KBS KIDS
 http://182.254.168.213:5000/live/kbs_kids.m3u8
-#EXTINF:-1 tvg-name="KBS 独岛" group-title="KBS专业频道",KBS 独岛
+#EXTINF:-1 tvg-name="KBS 独岛" group-title="韩国TV",KBS 独岛
 http://182.254.168.213:5000/live/kbs_dokdo.m3u8
