@@ -1,33 +1,33 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="KBS1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国TV",KBS1 (전국)
-http://182.254.168.213:5000/live/kbs1.m3u8
+http://182.254.168.213:8888/live/kbs1.m3u8
 #EXTINF:-1 tvg-id="KBS2TV.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/KBS_2_logo.svg/512px-KBS_2_logo.svg.png" group-title="韩国TV"  ,KBS2  [Not 24/7]
-http://182.254.168.213:5000/live/kbs2.m3u8
+http://182.254.168.213:8888/live/kbs2.m3u8
 #EXTINF:-1 tvg-id="HLAODTV.kr" tvg-logo="https://i.imgur.com/uR0gScb.png" group-title="韩国TV"  ,MBC [Not 24/7]
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/Public_6_DD724D33.m3u8
-http://182.254.168.213:5000/live/mbc_daejeon.m3u8
+http://182.254.168.213:8888/live/mbc_daejeon.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="韩国TV"  ,SBS [Not 24/7]
-http://182.254.168.213:5000/live/sbs.m3u8
+http://182.254.168.213:8888/live/sbs.m3u8
 #EXTINF:-1 tvg-id="KBS1-부산" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国TV",KBS1 - 부산
-http://182.254.168.213:5000/live/kbs_busan.m3u8
+http://182.254.168.213:8888/live/kbs_busan.m3u8
 #EXTINF:-1 tvg-id="KBS1-대전" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国TV",KBS1 - 대전
-http://182.254.168.213:5000/live/kbs_daejeon.m3u8
+http://182.254.168.213:8888/live/kbs_daejeon.m3u8
 #EXTINF:-1 tvg-id="KBS1-대구" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国TV",KBS1 - 대구
-http://182.254.168.213:5000/live/kbs_daegu.m3u8
+http://182.254.168.213:8888/live/kbs_daegu.m3u8
 #EXTINF:-1 tvg-id="KBS1-광주" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国TV",KBS1 - 광주
-http://182.254.168.213:5000/live/kbs_gwangju.m3u8
+http://182.254.168.213:8888/live/kbs_gwangju.m3u8
 #EXTINF:-1 tvg-id="KBS1-울산" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国TV",KBS1 - 울산
-http://182.254.168.213:5000/live/kbs_ulsan.m3u8
+http://182.254.168.213:8888/live/kbs_ulsan.m3u8
 #EXTINF:-1 tvg-id="KBS1-창원" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国TV",KBS1 - 창원
-http://182.254.168.213:5000/live/kbs_changwon.m3u8
+http://182.254.168.213:8888/live/kbs_changwon.m3u8
 #EXTINF:-1 tvg-id="KBS1-청주" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国TV",KBS1 - 청주
-http://182.254.168.213:5000/live/kbs_cheongju.m3u8
+http://182.254.168.213:8888/live/kbs_cheongju.m3u8
 #EXTINF:-1 tvg-id="KBS1-춘천" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国TV",KBS1 - 춘천
-http://182.254.168.213:5000/live/kbs_chuncheon.m3u8
+http://182.254.168.213:8888/live/kbs_chuncheon.m3u8
 #EXTINF:-1 tvg-id="KBS1-전주" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国TV",KBS1 - 전주
-http://182.254.168.213:5000/live/kbs_jeonju.m3u8
+http://182.254.168.213:8888/live/kbs_jeonju.m3u8
 #EXTINF:-1 tvg-id="KBS1-제주" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png" group-title="韩国TV",KBS1 - 제주
-http://182.254.168.213:5000/live/kbs_jeju.m3u8
+http://182.254.168.213:8888/live/kbs_jeju.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="韩国TV"  ,EBS1
 https://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDRDTV.kr" tvg-logo="https://i.imgur.com/zVunmpQ.png" group-title="韩国TV"  ,EBS2
@@ -38,18 +38,18 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
 #,KBS专业频道
 #EXTINF:-1 tvg-name="KBS WORLD" group-title="韩国TV",KBS WORLD
-http://182.254.168.213:5000/live/kbs_world.m3u8
+http://182.254.168.213:8888/live/kbs_world.m3u8
 #EXTINF:-1 tvg-name="KBS NEWS 24" group-title="韩国TV",KBS NEWS 24
-http://182.254.168.213:5000/live/kbs_news24.m3u8
+http://182.254.168.213:8888/live/kbs_news24.m3u8
 #EXTINF:-1 tvg-name="KBS Drama" group-title="韩国TV",KBS Drama
-http://182.254.168.213:5000/live/kbs_drama.m3u8
+http://182.254.168.213:8888/live/kbs_drama.m3u8
 #EXTINF:-1 tvg-name="KBS Joy" group-title="韩国TV",KBS Joy
-http://182.254.168.213:5000/live/kbs_joy.m3u8
+http://182.254.168.213:8888/live/kbs_joy.m3u8
 #EXTINF:-1 tvg-name="KBS Story" group-title="韩国TV",KBS Story
-http://182.254.168.213:5000/live/kbs_story.m3u8
+http://182.254.168.213:8888/live/kbs_story.m3u8
 #EXTINF:-1 tvg-name="KBS LIFE" group-title="韩国TV",KBS LIFE
-http://182.254.168.213:5000/live/kbs_life.m3u8
+http://182.254.168.213:8888/live/kbs_life.m3u8
 #EXTINF:-1 tvg-name="KBS KIDS" group-title="韩国TV",KBS KIDS
-http://182.254.168.213:5000/live/kbs_kids.m3u8
+http://182.254.168.213:8888/live/kbs_kids.m3u8
 #EXTINF:-1 tvg-name="KBS 独岛" group-title="韩国TV",KBS 独岛
 http://182.254.168.213:5000/live/kbs_dokdo.m3u8
